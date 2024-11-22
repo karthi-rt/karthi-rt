@@ -24,6 +24,7 @@ I’m interested in **Cutting-edge technologies for Android app development.**"
   </a>
 
   <br>
+  <br>
   
   <p><b>Frameworks & Libraries</b></p>
   <a href="" target="blank">
@@ -32,6 +33,7 @@ I’m interested in **Cutting-edge technologies for Android app development.**"
   </a>
 
   <br>
+  <br>
   
   <p><b>IDEs & Tools</b></p>
   <a href="" target="blank">
@@ -39,12 +41,14 @@ I’m interested in **Cutting-edge technologies for Android app development.**"
   </a>
 
   <br>
+  <br>
   
   <p><b>Version Control & Build Tools</b></p>
   <a href="" target="blank">
     <img src="https://skillicons.dev/icons?i=git,github,maven,gradle" />
   </a>
 
+  <br>
   <br>
   
   <p><b>Databases</b></p>
