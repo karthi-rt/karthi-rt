@@ -121,8 +121,8 @@ I’m interested in **Cutting-edge technologies for Android app development.**"
 <br>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://buymeacoffee.com/karthi_rt">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
+<!-- <a href="https://buymeacoffee.com/karthi_rt">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" /> -->
 </a>
 </p>
 </p>
