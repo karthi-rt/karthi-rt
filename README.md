@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm karthick</h1>
 
-[![](https://visitcount.itsvg.in/api?id=rt-karthi&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=karthi-rt)
 
 ## About Me 🔍
 I’m an **Android Developer** with a passion for creating intuitive and high-performing mobile applications. My focus is on building seamless experiences using **Kotlin** and the latest Android development tools. I’m always learning and exploring new ways to enhance my skills and stay current with the latest mobile development trends.
