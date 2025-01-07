@@ -12,7 +12,7 @@ I’m an **Android Developer** with a passion for creating intuitive and high-pe
 
 I’m expanding my expertise to **Kotlin Multiplatform**, broadening using the **Jetpack Compose UI declarative framework** to build modern Android apps. To reach across various platforms like iOS, Desktop, and Web.
 
-## Interesst 👀
+## Interest 👀
 I’m interested in **Cutting-edge technologies for Android app development.**"
   
 ## Technology Stack 💻 📱
