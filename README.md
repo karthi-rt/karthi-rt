@@ -80,13 +80,11 @@ I’m interested in **Cutting-edge technologies for Android app development.**"
 
 <a> 
     <a href="">
-      <img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=karthi-rt&show_icons=true&
-        count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+      <img alt="karthi-rt's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=karthi-rt&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
     </a>
   
   <a href="">
-  <img alt="karthi_rt's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=karthi-rt&langs_count=8&
-    layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <img alt="karthi-rt's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=karthi-rt&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
 
 <br>
