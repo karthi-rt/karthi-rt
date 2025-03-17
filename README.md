@@ -12,10 +12,10 @@ I’m an **Android Developer** with a passion for creating intuitive and high-pe
 
 I’m expanding my expertise to **Kotlin Multiplatform**, broadening using the **Jetpack Compose UI declarative framework** to build modern Android apps. To reach across various platforms like iOS, Desktop, and Web.
 
-Additionally, I’m diving into Flutter using Dart, building natively compiled applications for mobile, web, and desktop from a single codebase. Flutter’s flexibility and rich set of UI components help me create beautiful and performant apps with ease.
+Additionally, I’m diving into **Flutter using Dart**, building natively compiled applications for mobile, web, and desktop from a single codebase. Flutter’s flexibility and rich set of UI components help me create beautiful and performant apps with ease.
 
 ## Interest 👀
-I’m interested in **Cutting-edge technologies for Android app development.**"
+I’m interested in **cutting-edge technologies for Android app development**, with a particular focus on cross-platform / multiplatform solutions. Exploring frameworks like **Kotlin Multiplatform and Flutter** to build seamless and efficient apps that work across Android, iOS, Desktop, and Web.
   
 ## Technology Stack 💻 📱
 <div align="center">
