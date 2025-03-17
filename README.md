@@ -12,6 +12,8 @@ I’m an **Android Developer** with a passion for creating intuitive and high-pe
 
 I’m expanding my expertise to **Kotlin Multiplatform**, broadening using the **Jetpack Compose UI declarative framework** to build modern Android apps. To reach across various platforms like iOS, Desktop, and Web.
 
+Additionally, I’m diving into Flutter using Dart, building natively compiled applications for mobile, web, and desktop from a single codebase. Flutter’s flexibility and rich set of UI components help me create beautiful and performant apps with ease.
+
 ## Interest 👀
 I’m interested in **Cutting-edge technologies for Android app development.**"
   
@@ -19,7 +21,7 @@ I’m interested in **Cutting-edge technologies for Android app development.**"
 <div align="center">
   <p><b>Languages</b></p>
   <a href="" target="blank">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,php,html,css,js" /> <!-- regex -->     
+    <img src="https://skillicons.dev/icons?i=java,kotlin,php,html,css,js,dart" /> <!-- regex -->     
     <img height="48" width="48" src="https://www.svgrepo.com/show/31053/xml.svg" />
   </a>
 
@@ -28,7 +30,7 @@ I’m interested in **Cutting-edge technologies for Android app development.**"
   
   <p><b>Frameworks & Libraries</b></p>
   <a href="" target="blank">
-    <img src="https://skillicons.dev/icons?i=jquery,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=jquery,bootstrap,flutter" />
     <img height="50" width="50" src="https://cdn.simpleicons.org/jetpackcompose/4285F4" />
   </a>
 
