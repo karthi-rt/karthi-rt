@@ -63,6 +63,8 @@ I’m interested in **cutting-edge technologies for Android app development**, w
 <br>
 
 ## Github Statistics 📈
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthi-rt&theme=radical&border=7F3FBF&background=0D1117)
+
 
 <p align="center">
   <a href="" target="blank">
